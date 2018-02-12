@@ -9,8 +9,8 @@ LuaError AntiSpamBot Base on TD-CLI
 # Clone Source on Server and install
 🔰
 cd $HOME
-git clone https://github.com/TeleSudo/LeBeta.git
-cd LeBeta
+git clone https://github.com/ldevl/karrar.git
+cd karrar
 chmod +x install.sh
 ./install.sh
 🔰
